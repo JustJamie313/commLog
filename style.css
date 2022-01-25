@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
     color: white;
 <<<<<<< HEAD
     background-color: blue;
@@ -10,7 +11,11 @@ body {
 =======
     background-color: #333;
     font-size: 150%;
+=======
+    color: skyblue;
+    background-color: violet;
+    font-size: 10%;
+>>>>>>> 639f63848c9c17e782d001b6c7d6570df3222282
     font-family: 'Satisfy', cursive;
     margin: 5em 25%;
->>>>>>> 97546c3f6e42e764efe80c7cdc25b6858290e594
  }
